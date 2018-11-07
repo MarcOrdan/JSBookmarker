@@ -1,0 +1,9 @@
+.jumbotron {
+  display: inline-block;
+  position: absolute;
+   left: 30%;
+}
+
+.form-control {
+    width: 100%;
+}
