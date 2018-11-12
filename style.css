@@ -1,9 +1,16 @@
 .jumbotron {
-  display: inline-block;
-  position: absolute;
-   left: 30%;
+  margin: 1% 20%;
 }
+
 
 .form-control {
     width: 100%;
+}
+
+.bookMarkContainer {
+    margin-top: 5%;
+}
+
+a {
+    margin-left: 1%;
 }
